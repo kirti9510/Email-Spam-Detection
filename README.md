@@ -1,10 +1,3 @@
-# Email-Spam-Detection
-The zipped files are streamlit code to run Spam detection using two datasets.
-1. Enron Dataset
-2. SMS Spam Collection Dataset
-3. Spam Detector using AWS blazingtext algorithm
----
-
 # Email Spam Detection Using BlazingText on AWS
 
 This project involves building, training, and deploying a machine learning model to detect email spam using the BlazingText algorithm on AWS SageMaker. The model is capable of classifying email messages as either spam or ham (not spam) based on their content.
